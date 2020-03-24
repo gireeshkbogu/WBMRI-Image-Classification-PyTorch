@@ -11,16 +11,16 @@ Once you clone this repo, run the classify.py file to classify images in your ow
 
 `$python classify.py`
 
-## Input-1
+##### Input-1
 ![alt text]()
-## Output-1
-<img src="https://user-images.githubusercontent.com/3885659/77395146-d721e200-6d98-11ea-85b4-b8171be731bf.png" height="250" width="300">
+##### Output-1
+<img src="https://user-images.githubusercontent.com/3885659/77395146-d721e200-6d98-11ea-85b4-b8171be731bf.png" height="250" width="400">
 
 
-## Input-2
+##### Input-2
 ![alt text]()
-## Output-2
-<img src="https://user-images.githubusercontent.com/3885659/77395152-dbe69600-6d98-11ea-91ec-1bb38d93ea0f.png" height="250" width="300">
+##### Output-2
+<img src="https://user-images.githubusercontent.com/3885659/77395152-dbe69600-6d98-11ea-91ec-1bb38d93ea0f.png" height="250" width="400">
 
 
 ### Note:
