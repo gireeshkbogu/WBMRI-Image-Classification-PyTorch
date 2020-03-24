@@ -9,7 +9,11 @@ Image Classification is one of the basic and most important task of Deep Learnin
 ## Download and Setup
 Once you clone this repo, run the classify.py file to classify images in your own data/test_dataset.  
 
-`$python classify.py`
+```python
+pip install -r requirements.txt
+
+$python classify.py
+```
 
 ## Examples (Results)
 ##### Head and Neck (Axial) 
