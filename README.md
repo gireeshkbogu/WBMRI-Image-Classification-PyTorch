@@ -11,5 +11,10 @@ Once you clone this repo, run the classify.py file to classify images in your ow
 
 `$python classify.py`
 
+## Input
+![alt text]()
+## Output
+![alt text](https://github.com/gireeshkbogu/WBMR-Image-Classification-PyTorch/blob/master/data/test_results/results_4.pdf)
+
 ### Note:
 The current model is trained on a small number of images and a simple CNN but works well with Tesla-based MR images. I will update the loss, accuracy scores, and a model with a relatively large number of images in the future.  
