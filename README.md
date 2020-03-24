@@ -9,5 +9,7 @@ Image Classification is one of the basic and most important task of Deep Learnin
 ## Download and Setup
 Once you clone this repo, run the classify.py file to classify images in your own data/test_dataset.  
 
-```python 
-$python classify.py
+`$python classify.py`
+
+### Note:
+The current model is trained on a small numbber of images but works well. I will update the loss, accuracy scores, and model with relatively large numbber of images in the future.  
