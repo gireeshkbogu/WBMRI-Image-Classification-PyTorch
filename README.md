@@ -12,4 +12,4 @@ Once you clone this repo, run the classify.py file to classify images in your ow
 `$python classify.py`
 
 ### Note:
-The current model is trained on a small number of images but works well. I will update the loss, accuracy scores, and model with a relatively large number of images in the future.  
+The current model is trained on a small number of images and a simple CNN but works well with Tesla-based MRI images. I will update the loss, accuracy scores, and model with a relatively large number of images in the future.  
