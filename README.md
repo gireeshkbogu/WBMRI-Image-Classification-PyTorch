@@ -14,13 +14,13 @@ Once you clone this repo, run the classify.py file to classify images in your ow
 ## Input-1
 ![alt text]()
 ## Output-1
-<img src="https://user-images.githubusercontent.com/3885659/77395146-d721e200-6d98-11ea-85b4-b8171be731bf.png" width="48">
+<img src="https://user-images.githubusercontent.com/3885659/77395146-d721e200-6d98-11ea-85b4-b8171be731bf.png" , height="150", width="150">
 
 
 ## Input-2
 ![alt text]()
 ## Output-2
-<img src="https://user-images.githubusercontent.com/3885659/77395152-dbe69600-6d98-11ea-91ec-1bb38d93ea0f.png" width="48">
+<img src="https://user-images.githubusercontent.com/3885659/77395152-dbe69600-6d98-11ea-91ec-1bb38d93ea0f.png" height="150", width="150">
 
 
 ### Note:
