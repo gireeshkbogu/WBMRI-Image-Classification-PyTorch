@@ -20,4 +20,4 @@ Once you clone this repo, run the classify.py file to classify images in your ow
 
 
 ### Note:
-The current model is trained on a small number of images and a simple CNN but works well with Tesla-based MR images. I will update the loss, accuracy scores, and a model with a relatively large number of images in the future.  
+The current model trained on a small number of images with a simple CNN but works well. No augmentation or transfer learnning has applied. I will update the metrics, and different models, and with a large number of images in the future.  
