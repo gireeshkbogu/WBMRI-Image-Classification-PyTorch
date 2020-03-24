@@ -23,8 +23,10 @@ $python classify.py
 </div>
 
 ##### Abdomen (Coronal)
+<div>
 <img src="https://user-images.githubusercontent.com/3885659/77395152-dbe69600-6d98-11ea-91ec-1bb38d93ea0f.png" height="250" width="400">
-
-
+<img src="https://user-images.githubusercontent.com/3885659/77460381-e33d8c00-6df8-11ea-9f31-3c7d97d32444.png height="250" width="400">
+</div>
+                                                                                                                                      
 ### Note:
 The current model trained on a small number of images with a simple CNN but works well. No augmentation or transfer learning used. I will update the metrics, and different models, and with a large number of images in the future.  
