@@ -10,4 +10,4 @@ Image Classification is one of the basic and most important task of Deep Learnin
 Once you clone this repo, run the classify.py file to classify images the your own data/test_dataset.  
 
 ```python 
-$python classify.py```
+$python classify.py
