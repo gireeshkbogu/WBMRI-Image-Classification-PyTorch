@@ -1,8 +1,8 @@
 # WBMR-Image-Classification-PyTorch
-Image classification using deep learning models in PyTorch
+Image classification using deep learning models in PyTorch.
 
 ## Description
-This repository contains the implementation of CNN in PyTorch deep learning framework
+This repository contains the implementation of CNN in PyTorch deep learning framework.
 
 Image Classification is one of the basic and most important task of Deep Learning. In this repository, I am focussing on classifying WBMRI (Whole-Body Magnetic Resonance Images)  taken from different body parts and in axial, coronal and saggital angles.
 
