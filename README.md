@@ -17,7 +17,7 @@ $python classify.py
 
 ## Examples (Results)
 ##### Head and Neck (Axial) 
-<img src="https://user-images.githubusercontent.com/3885659/77395146-d721e200-6d98-11ea-85b4-b8171be731bf.png" height="250" width="400">
+<img src="https://user-images.githubusercontent.com/3885659/77395146-d721e200-6d98-11ea-85b4-b8171be731bf.png" "https://user-images.githubusercontent.com/3885659/77460400-eafd3080-6df8-11ea-92ec-c555c5be9889.png" height="250" width="400">
 
 ##### Abdomen (Coronal)
 <img src="https://user-images.githubusercontent.com/3885659/77395152-dbe69600-6d98-11ea-91ec-1bb38d93ea0f.png" height="250" width="400">
